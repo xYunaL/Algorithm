@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main{
+public class NK {
     static final long MOD = 25919L;
 
     public static void main(String[] args) throws Exception {
@@ -40,3 +40,20 @@ public class Main{
         return result;
     }
 }
+
+// '모듈로(modulo)'는 컴퓨터 과학 및 수학에서 어떤 숫자를 
+// 다른 숫자로 나눈 나머지(remainder)를 구하는 연산을 의미하며, 
+// '나머지 연산'이라고도 합니다.
+
+/**
+ * Input Example
+ * 3
+ * 2 3
+ * 100 0
+ * 1000 250918
+ * 
+ * Output Example
+ * 8
+ * 1
+ * 3422
+ */
