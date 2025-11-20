@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 //  implement an algorithm to compute the maximum limit ℓ so that every person gets at least ℓ amount of bossam.
-public class Bossam {
+public class BossamE {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class IO {
     public static int countopers(int n, int i, int[] opers, int T) {
         if (n - 1 == i) {
@@ -41,5 +40,6 @@ public class IO {
             int[] opers = new int[n-1];
             System.out.println(countopers(n, 0, opers, T));
         }
+        sc.close();
     }
 }

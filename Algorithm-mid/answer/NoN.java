@@ -43,5 +43,6 @@ public class NoN {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

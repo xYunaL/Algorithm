@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bossam2 {
+public class Bossam {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
