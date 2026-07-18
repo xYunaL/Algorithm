@@ -1,5 +1,3 @@
-package 정보처리기사_실기;
-
 enum Tri {
     A("A"), 
     B("AB"), 
